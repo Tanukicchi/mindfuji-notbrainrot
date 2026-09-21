@@ -17,7 +17,7 @@ The project is designed around three principles:
 - **Minimal surveillance** — parents configure access rules, but do not receive watched-content histories.
 - **Practical friction** — the intervention should be short enough to use in everyday family life, while still interrupting passive scrolling.
 
-## What I built
+## What we built
 
 NotBrainRot is an end-to-end product project covering iOS development, backend integration, device policy APIs, computer vision, and release engineering.
 
